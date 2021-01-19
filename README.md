@@ -6,4 +6,5 @@
 <img src='https://i.imgur.com/KMtjw1j.png' width=200 >
 <img src='https://i.imgur.com/85ULQft.png' width=200 style='margin-left: 10px;'>
 </div>
+<sub>Coming soon to iOS and Google Playstore</sub>
 </div>
